@@ -1,2 +1,2 @@
 # Mon-CV
-Mon CV https://druidemaxd.github.io/Mon-CV/
+Mon CV avc du HTML5
